@@ -13,7 +13,7 @@ This pack is designed to work with ATLauncher and is used by all players on our 
 
 1. Download and install [ATLauncher](https://atlauncher.com/downloads).
 2. Go to **Packs > Add Pack > Add from URL**.
-3. Paste this URL:
+3. Paste this URL: [Modpack Json](https://github.com/Rizzy2k/FlowerSMP/blob/main/modpack.json)
 
 4. Click **Add**, then install and play!
 
@@ -33,4 +33,4 @@ This pack includes performance optimizations, QoL mods, and compatibility with o
 
 | Version | Minecraft | Release Date | Notes            |
 |---------|-----------|--------------|------------------|
-| 1.0.0   | 1.20.1    | 2025-04-21   | Initial release. |
+| [1.0.0](https://github.com/Rizzy2k/FlowerSMP/releases/tag/v1.0.0)   | 1.20.1    | 2025-04-21   | Initial release. | 
