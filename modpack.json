@@ -13,7 +13,7 @@
       "forge": "47.1.3",
       "file": {
         "url": "https://github.com/YourUsername/my-modpack-repo/releases/download/v1.0.0/MyServerModpack.zip",
-        "sha1": "PUT_SHA1_HASH_HERE"
+        "sha1": "FF8189AE53430FE3CFD7E07FC591FA3F86380722"
       },
       "type": "release",
       "releaseDate": "2025-04-21T12:00:00Z"
